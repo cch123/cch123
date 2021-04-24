@@ -3,3 +3,7 @@
 * Coauthor of open source book [advanced go programming](https://github.com/chai2010/advanced-go-programming-book) in Chinese
 
 [![cch123's github stats](https://github-readme-stats.vercel.app/api?username=cch123)](https://github.com/cch123)
+
+Wechat Official Account:
+
+![wechat](https://github.com/cch123/golang-notes/raw/master/images/gzh.png)
