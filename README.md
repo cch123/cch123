@@ -6,4 +6,4 @@
 
 Wechat Official Account:
 
-<img width="222px"  src="https://xargin.com/content/images/2021/05/wechat.png">
+<img width="330px"  src="https://xargin.com/content/images/2021/05/wechat.png">
